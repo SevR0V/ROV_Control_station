@@ -1,0 +1,17 @@
+D:\Projects\SevROV\SevROVExample\SevROVExample\bin\Debug\SevROVExample.exe.config
+D:\Projects\SevROV\SevROVExample\SevROVExample\bin\Debug\SevROVExample.exe
+D:\Projects\SevROV\SevROVExample\SevROVExample\bin\Debug\SevROVExample.pdb
+D:\Projects\SevROV\SevROVExample\SevROVExample\bin\Debug\SharpDX.dll
+D:\Projects\SevROV\SevROVExample\SevROVExample\bin\Debug\SharpDX.XInput.dll
+D:\Projects\SevROV\SevROVExample\SevROVExample\bin\Debug\SharpDX.pdb
+D:\Projects\SevROV\SevROVExample\SevROVExample\bin\Debug\SharpDX.XInput.pdb
+D:\Projects\SevROV\SevROVExample\SevROVExample\bin\Debug\SharpDX.XInput.xml
+D:\Projects\SevROV\SevROVExample\SevROVExample\obj\Debug\SevROVExample.csprojAssemblyReference.cache
+D:\Projects\SevROV\SevROVExample\SevROVExample\obj\Debug\SevROVExample.Form1.resources
+D:\Projects\SevROV\SevROVExample\SevROVExample\obj\Debug\SevROVExample.Properties.Resources.resources
+D:\Projects\SevROV\SevROVExample\SevROVExample\obj\Debug\SevROVExample.csproj.GenerateResource.cache
+D:\Projects\SevROV\SevROVExample\SevROVExample\obj\Debug\SevROVExample.csproj.CoreCompileInputs.cache
+D:\Projects\SevROV\SevROVExample\SevROVExample\obj\Debug\SevROVExample.csproj.CopyComplete
+D:\Projects\SevROV\SevROVExample\SevROVExample\obj\Debug\SevROVExample.exe
+D:\Projects\SevROV\SevROVExample\SevROVExample\obj\Debug\SevROVExample.pdb
+D:\Projects\SevROV\SevROVExample\SevROVExample\bin\Debug\libgphoto2.dll

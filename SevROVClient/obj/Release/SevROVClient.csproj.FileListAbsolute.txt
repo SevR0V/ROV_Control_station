@@ -1,0 +1,66 @@
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\bin\Release\SevROVClient.exe.config
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\bin\Release\SevROVClient.exe
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\bin\Release\SevROVClient.pdb
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\bin\Release\SharpDX.dll
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\bin\Release\SharpDX.XInput.dll
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\bin\Release\SharpDX.pdb
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\bin\Release\SharpDX.XInput.pdb
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\bin\Release\SharpDX.XInput.xml
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\obj\Release\SevROVClient.MainForm.resources
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\obj\Release\SevROVClient.Properties.Resources.resources
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.GenerateResource.cache
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.CoreCompileInputs.cache
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.CopyComplete
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\obj\Release\SevROVClient.exe
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\obj\Release\SevROVClient.pdb
+C:\Users\yukik\Desktop\SEVROV\SevROVClient\SevROVClient\obj\Release\SevROVClient.csprojAssemblyReference.cache
+Z:\SevROVClient\SevROVClient\bin\Release\SevROVClient.exe.config
+Z:\SevROVClient\SevROVClient\bin\Release\SevROVClient.exe
+Z:\SevROVClient\SevROVClient\bin\Release\SevROVClient.pdb
+Z:\SevROVClient\SevROVClient\bin\Release\SharpDX.dll
+Z:\SevROVClient\SevROVClient\bin\Release\SharpDX.XInput.dll
+Z:\SevROVClient\SevROVClient\bin\Release\SharpDX.pdb
+Z:\SevROVClient\SevROVClient\bin\Release\SharpDX.XInput.pdb
+Z:\SevROVClient\SevROVClient\bin\Release\SharpDX.XInput.xml
+Z:\SevROVClient\SevROVClient\obj\Release\SevROVClient.csprojAssemblyReference.cache
+Z:\SevROVClient\SevROVClient\obj\Release\SevROVClient.MainForm.resources
+Z:\SevROVClient\SevROVClient\obj\Release\SevROVClient.Properties.Resources.resources
+Z:\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.GenerateResource.cache
+Z:\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.CoreCompileInputs.cache
+Z:\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.CopyComplete
+Z:\SevROVClient\SevROVClient\obj\Release\SevROVClient.exe
+Z:\SevROVClient\SevROVClient\obj\Release\SevROVClient.pdb
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SevROVClient.exe.config
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SevROVClient.exe
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SevROVClient.pdb
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SharpDX.dll
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SharpDX.XInput.dll
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SharpDX.pdb
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SharpDX.XInput.pdb
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SharpDX.XInput.xml
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.AssemblyReference.cache
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.MainForm.resources
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.Properties.Resources.resources
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.GenerateResource.cache
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.CoreCompileInputs.cache
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.CopyComplete
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.exe
+C:\Users\geten\Desktop\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.pdb
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SevROVClient.exe.config
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SevROVClient.exe
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SevROVClient.pdb
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SharpDX.dll
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SharpDX.XInput.dll
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SharpDX.pdb
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SharpDX.XInput.pdb
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\bin\Release\SharpDX.XInput.xml
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.AssemblyReference.cache
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.SuggestedBindingRedirects.cache
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.MainForm.resources
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.Properties.Resources.resources
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.GenerateResource.cache
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.CoreCompileInputs.cache
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.csproj.CopyComplete
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.exe
+E:\SEVROV PROGS v3\SevROV v2 progs\SevROVClient\SevROVClient\obj\Release\SevROVClient.pdb
